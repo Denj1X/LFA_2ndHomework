@@ -15,3 +15,4 @@ int main() {
     afn.turn_into_AFD();
     return 0;
 }
+///from NFA to DFA
